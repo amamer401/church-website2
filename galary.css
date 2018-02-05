@@ -1,0 +1,15 @@
+.pink{
+	background: pink;
+	border: 1px solid purple;
+	/*padding-bottom: : 20px;
+	margin-top: 20px;*/
+}
+.orange{
+	background: Orange;
+	border: 1px dashed red;
+}
+
+.blue{
+	background: blue;
+	border: 1px dashed green;
+}
