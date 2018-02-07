@@ -1,4 +1,31 @@
-html,body{
+body{
+	background:url("C:/Users/Hp p6310f/Desktop/project/church website2/image/home background.png")
+	background-size: cover;
+	background-possition:center;
+
+}
+
+
+#content{
+	text-align: center;
+	padding-top:15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+ html,body{
 	margin:0;
 	padding: 0;
 }
@@ -63,7 +90,7 @@ h1{
 #header{
 	height: 150px;
 	background:#db6d16 
-	         /* Url("C:/Users/Hp p6310f/Desktop/project/church website2/images/rohochurch.jpg");*/
+	         Url("C:/Users/Hp p6310f/Desktop/project/church website2/images/rohochurch.jpg");
 }
 .post {
 	float: right;
@@ -71,8 +98,8 @@ h1{
 	line-height: 18px;
 	margin: 20px;
 }
-/*.post .padding{
-	padding:25px;*/
+.post .padding{
+	padding:25px;
 
 .qoute{
 	border-left: 5px solid #bdc3c7;
@@ -97,7 +124,7 @@ h1{
 	margin: 0;
 	padding: 0;
 	padding-bottom: 15px;
-}
+}*/
 #footer{
 	clear:both;
 	font-family: Tahoma, Arial, Helvetica, Sans-Serif;
