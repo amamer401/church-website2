@@ -1,154 +1,65 @@
 body{
-	background:url("C:/Users/Hp p6310f/Desktop/project/church website2/image/home background.png")
+	background: url(http://img.groundspeak.com/waymarking/22160f27-cd56-4906-8af4-02592d2fe3ff.JPG);
 	background-size: cover;
-	background-possition:center;
+	background-position: center;
+	font-family: lato;
+	color: white;
+
 
 }
-
+html{
+	height: 100%;
+}
 
 #content{
 	text-align: center;
-	padding-top:15%;
+	padding-top: 18%;
+	text-shadow: 0px 4px 3px red,
+	             0px 8px 13px orange,
+	             0px 18px 23px blue;
+
+}
+
+.class btn{
+	color: black;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-/*
- html,body{
-	margin:0;
-	padding: 0;
-}
-body{
-	font-size: 12px;
-	font-family: Arial,Helvetica,vardana,Sans-serif;
-	color: #666666;
-	text-align: center;
-}
-
-
-body.about #header{
-	height: 150px;
-	background: #db6d16
-	       url("C:/Users/Hp p6310f/Desktop/project/church website/images/rohobth.jpg");
-}
-.hidden  {
-  display: inline-block;
-  
-}
 h1{
-	margin-right: 0;
-	padding: 0;
-	float: right;
-	margin-top: 57px;
-	padding-right: 31px;
-}
-
-#page-container{
-	
-	width: 760px;
-	margin: auto;
-	text-align: left;
+	font-weight: 700;
+	font-size: 5em;
 
 }
-#main-nav{
-	padding-left: 11px;
-	overflow: hidden;
-	
-}
-#main-nav ul{
-	margin: 0;
-	padding: 0;
-	
-}
-#main-nav li{
-	float: left;
-	
-}
-#main-nav li a{
-	display: block;
-	height: 0px !important;
-	padding: 50px 0 0 0;
-	overflow: hidden;
-	background-repeat: no-repeat;
+hr{
+ width:450px;
+ border-top: 1px solid f8f8f8;
+ border-bottom: 1px solid rgba(0,0,0,0.2);
 
 }
-#main-nav li a:hover{
-	background-position: 0 -50px;
-}
-
-#header{
-	height: 150px;
-	background:#db6d16 
-	         Url("C:/Users/Hp p6310f/Desktop/project/church website2/images/rohochurch.jpg");
-}
-.post {
-	float: right;
-	width: 280px;
-	line-height: 18px;
-	margin: 20px;
-}
-.post .padding{
-	padding:25px;
-
-.qoute{
-	border-left: 5px solid #bdc3c7;
-	padding-left: 5px;
-	font-family: source sans pro;
-}
-
-#content{
-	margin-right: 280px;
-	line-height: 18px;
-	text-align: left;
-}
-#content .padding{
-	padding: 25px;
-}
-#content h2{
-	margin: 0;
-	padding: 0;
-	padding-bottom: 15px;
-}
-#content p{
-	margin: 0;
-	padding: 0;
-	padding-bottom: 15px;
-}*/
 #footer{
-	clear:both;
-	font-family: Tahoma, Arial, Helvetica, Sans-Serif;
-	font-size: 10px;
-	color: #c9c9c9c;
-	border-top: 1px solid #efefef;
-	padding: 13px 25px;
-	line-height: 18px;
+  clear:both;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-size: 10px;
+  color: #c9c9c9c;
+  border-top: 1px solid #efefef;
+  padding: 13px 25px;
+  line-height: 18px;
 }
 #footer #altnav{
-	clear: both;
-	width: 350px;
-	float: right;
-	text-align: right;
-	padding-top: 13px;
+  clear: both;
+  width: 350px;
+  float: right;
+  text-align: right;
+  padding-top: 13px;
 }
 #footer #copyright{
-	padding-top: 13px;
+  padding-top: 13px;
+  color: #bdc3c7;
 }
 #footer a{
-	color:#c9c9c9c;
-	text-decoration: none;
+  color:#c9c9c9c;
+  text-decoration: none;
 }
 #footer a:hover{
-	color: #db6d16;
+  color: #db6d16;
 }
-
