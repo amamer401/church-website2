@@ -3,12 +3,13 @@
 <head>
     <title>our Beliefs</title>
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
-    <link rel="stylesheet" type="text/css" href="ourbeliefs.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+   <link rel="stylesheet" type="text/css" href="howtojoin.css"> 
     <script src="https://code.jquery.com/jquery-3.2.1.js"> </script>
 </head>
 <body>
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-inverse">
     <div class="container">
      <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-nav-demo" aria-expanded="false">
@@ -21,10 +22,10 @@
      </div>
      <div class="collapse navbar-collapse" id="bs-nav-demo">
          <ul class="nav navbar-nav">
-            <li><a href="home.html">Home Page</a></li>
-            <li><a href="#">About Us</a></li>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="galary.html">IMGS</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ministries <span class="caret"></span></a>
+              <a href="Ministries.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ministries <span class="caret"></span></a>
                 <ul class="dropdown-menu">          
                     <li><a href="#">Children Ministry</a></li>
                     <li><a href="#">Prayer Ministry</a></li>
@@ -35,20 +36,23 @@
                     <li><a href="#">Deacons</a></li>
                     <li><a href="#">Bible Study Groups</a></li>
                 </ul>
+              </li>
             
-            <li><a href="C:/Users/Hp p6310f/Desktop/project/church website/ourbeliefs.html">Our Beliefs</a></li>
-            <li><a href="#">How to join church</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="ourbeliefs.html">About Our Beliefs</a></li>
+            <li class="active"><a href="howtojoin.html">How to join church</a></li>
+            <li><a href="contact.html">Contact</a></li>
             <li><a href="#"></a></li>
 
          </ul>
          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Sign up</a></li>
-            <li><a href="#">Login</a></li>
+            <li><a href="#">Sign up<i class="fa fa-user-plus"></i></a></li>
+            <li><a href="#">Login<i class="fa fa-user"></i></a></li>
          </ul>
      </div>
     </div>
     </nav>
+
+
     <div class="col-md-4">
       <h1> Current members: </h1>
       <ul id="memberlist">
@@ -58,9 +62,23 @@
       <br>
       <button type="button" id="joinbutton" class="btn btn-success">Join</button>
     </div>
+   <div id="footer">
+      <div id="altnav">
+        <a href="home.html">Home</a>
+        <a href="#">Ministries</a>
+        <a href="">About us</a>
+        <a href="contact.html">Conact Us</a>
+        <a href="join.html">How to Join</a>
+      </div>
+      <div id ="Copyright">
+        Copyright © Rohoboth Eritrean Church
+        Powered by <a href="http://www.rohobothcharlotte.org">Rohoboth Church</a> 
+      </div>
+</div>
+
 
   <script type="text/javascript" src="app.js"></script>
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.js"></script>
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 
