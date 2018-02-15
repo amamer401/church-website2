@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    
+    box-sizing: border-box;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0px;
+    -webkit-padding-after: 0px;
+    -webkit-padding-start: 0px;
+    -webkit-padding-end: 0px;
+}
+
+
+html {
+    background: rgba(0, 0, 0, 0) url("../images/office.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color:black;
+    margin-top: 20px;
+
+}
+.thumbnail{
+    text-align: center;
+    margin-top: 0.5px;
+    margin-left: 100px;
+}
+
+h1 {
+    color: red;
+    font-size: 238%;
+    padding-top: 400px;
+    margin-top:40px;
+}
+
+h2 {
+    color:#f8f8f8;
+    font-size: 100%;
+    margin-top: 50px;
+}
+#query {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    margin-bottom: 50px;
+    border: solid 2px rgb(255, 255, 73);
+    width: 20%;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.button {
+    background-color: purple;
+    border-radius: 5px;
+    padding: 1%;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px
+}
+
+#search-results p {
+    color:#bdc3cf;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    background-color: black;
+    padding: 20px;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#footer{
+    clear:both;
+    font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+    font-size: 10px;
+    color: #c9c9c9c;
+    border-top: 1px solid #efefef;
+    padding: 13px 25px;
+    line-height: 18px;
+}
+#footer #altnav{
+    clear: both;
+    width: 350px;
+    float: right;
+    text-align: right;
+    padding-top: 13px;
+}
+#footer #copyright{
+    padding-top: 13px;
+}
+#footer a{
+    color:#c9c9c9c;
+    text-decoration: none;
+}
+#footer a:hover{
+    color: #db6d16;*/
+}

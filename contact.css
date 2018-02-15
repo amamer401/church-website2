@@ -1,14 +1,14 @@
 
 body{
-  background-image: url(http://img.groundspeak.com/waymarking/22160f27-cd56-4906-8af4-02592d2fe3ff.JPG);
+  /*background-image: url(http://img.groundspeak.com/waymarking/22160f27-cd56-4906-8af4-02592d2fe3ff.JPG);*/
   background-position: center;
-    background-color: #000000;
+    background-color:#F0EFEA;
     font-family: Lato;
   border: 1px solid #bdc3c7;
-
 }
+
 #inner{
-  border:20px solid #bdc3c7 ;
+  border:  20px solid #bdc3c7 ;
   padding: 20px;
   max-width: 700px;
   width: 80%;
@@ -48,7 +48,7 @@ body{
 }
 #footer{
   padding-top: 13px;
-  color: #bdc3c7;
+  color: #c9c9c9c;
 }
 #footer a{
   color:#c9c9c9c;
@@ -58,5 +58,9 @@ body{
   color: #db6d16;
 }
 #copyright{
-  color: #bdc3c7;
+  color:#c9c9c9c ;
+}
+#inner{
+  background-color: #F0EFEA;
+
 }
