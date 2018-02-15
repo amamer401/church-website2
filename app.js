@@ -9,9 +9,3 @@ $( document ).ready(function() {
     });
 });
 
-var button = document.queryselector("button");
-var paragraph = document.queryselector("P");
-
-button.addEventListener("click", function(){
- paragraph.textcontent ="someone Clicked The button";
-});
