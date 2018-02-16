@@ -1,5 +1,3 @@
-
-
 $( document ).ready(function() {
     $("#joinbutton").on('click', function() {
         var new_member_name = $("#newmember").val();
@@ -7,5 +5,5 @@ $( document ).ready(function() {
         var ul = $("#memberlist")
         ul.append(li);
     });
-});
 
+});
