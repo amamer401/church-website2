@@ -15,8 +15,8 @@ Rohoboth Church http://www.rohobothcharlote.org
 - [Home](#home)
 - [IMGS](#IMGS)
 - [Ministries](#Ministries)
-- [About Our Beliefs](#About Our Beliefs)
-- [How to join the church](#How to join the church)
+- [OurBeliefs](#OurBeliefs)
+- [JoinUs](#JoinUs)
 - [Contact](#Contact)
 
 
