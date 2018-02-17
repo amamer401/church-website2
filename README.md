@@ -4,7 +4,7 @@
 You want to Visit Our Church Website.
  
 
-Rohoboth Church http://www.rohobothcharlote.org
+# Rohoboth Church http://www.rohobothcharlote.org
 
 ![Walkthrough](screenshot/screenshot.jpg)
 
@@ -21,8 +21,8 @@ Rohoboth Church http://www.rohobothcharlote.org
 - [Contact](#Contact)
 
 
- ### Requirements
+ # Requirements
  - macOS 10.9+ / Windows / Linux
  
- ### Content
+ # Content
  - HTML CSS Javascript Jquery Bootstrap
