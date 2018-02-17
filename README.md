@@ -13,6 +13,7 @@ Rohoboth Church http://www.rohobothcharlote.org
 
 ## Table of Contents
 - [Home](#home)
+- [Songs](#Songs)
 - [IMGS](#IMGS)
 - [Ministries](#Ministries)
 - [OurBeliefs](#OurBeliefs)
