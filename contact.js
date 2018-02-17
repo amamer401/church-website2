@@ -1,4 +1,4 @@
-var button = document.querySelectorByclass("btn");
+var button = document.querySelectorByClass("btn");
 
 button.addEventListener("click" , function(){
 
