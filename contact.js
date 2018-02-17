@@ -1,7 +1,4 @@
-var button = document.querySelectorByclass("btn");
-
-button.addEventListener("click" , function(){
-
-	alert("Thank u we will contact u ASAP");
-
+$('#btn').on('click', function (event) {
+    console.log("clicked");
+    alert("Thank u we will contact u ASAP");
 });
