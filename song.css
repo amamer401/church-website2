@@ -79,3 +79,14 @@ h2 {
     margin-right: auto;
     margin-left: auto;
 }
+
+#footer{
+  clear:both;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-size: 10px;
+  color: #c9c9c9c;
+  border-top: 1px solid #efefef;
+  padding: 13px 25px;
+  line-height: 18px;
+}
+
